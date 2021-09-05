@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#424242</color>
+
+    <color name="multiple_image_select">#4CAF50</color>
+    <color name="multiple_image_select_dark">#2E7D32</color>
+    <color name="multiple_image_select_dark_900">#1B5E20</color>
+    <color name="multiple_image_select_primaryText">#BF000000</color>
+    <color name="multiple_image_select_toolbarPrimaryText">#000000</color>
+    <color name="multiple_image_select_imageSelectBackground">#80FFFFFF</color>
+    <color name="toolbarBackgroundColor">#FFFFFF</color>
+    <color name="multiple_image_select_buttonText">#FFFFFF</color>
+    <color name="color_selected_text">#B3000000</color>
+    <color name="color_progress_back">#80FFFFFF</color>
+    <color name="color_view">#ddd</color>
+    <color name="dark_50">#80000000</color>
+    <color name="dark_60">#99000000</color>
+    <color name="dark_70">#B3000000</color>
+    <color name="dark_80">#CC000000</color>
+    <color name="dark_90">#E6000000</color>
+    <color name="dark_95">#F2000000</color>
+    <color name="dark_99">#000000</color>
+    <color name="white_50">#80FFFFFF</color>
+    <color name="warm_back">#F6F5F5</color>
+
+
+</resources>

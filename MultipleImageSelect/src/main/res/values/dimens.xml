@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_4dp">4dp</dimen>
+    <dimen name="dimen_8dp">8dp</dimen>
+    <dimen name="dimen_16dp">16dp</dimen>
+    <dimen name="dimen_24dp">24dp</dimen>
+    <dimen name="dimen_32dp">32dp</dimen>
+    <dimen name="dimen_62dp">64dp</dimen>
+
+    <dimen name="txt_8sp">8sp</dimen>
+    <dimen name="txt_10sp">10sp</dimen>
+    <dimen name="txt_12sp">12sp</dimen>
+    <dimen name="txt_14sp">14sp</dimen>
+    <dimen name="txt_16sp">16sp</dimen>
+    <dimen name="txt_18sp">18sp</dimen>
+
+    <dimen name="elevation_1dp">1dp</dimen>
+    <dimen name="elevation_2dp">2dp</dimen>
+    <dimen name="elevation_3dp">3dp</dimen>
+    <dimen name="elevation_4dp">4dp</dimen>
+    <dimen name="elevation_6dp">6dp</dimen>
+    <dimen name="elevation_8dp">8dp</dimen>
+    <dimen name="elevation_9dp">9dp</dimen>
+    <dimen name="elevation_10dp">10dp</dimen>
+
+    <dimen name="card_radius_8dp">8dp</dimen>
+    <dimen name="card_radius_16dp">16dp</dimen>
+    <dimen name="card_radius_24dp">24dp</dimen>
+
+    <dimen name="app_bar_height">48dp</dimen>
+    <dimen name="height_view">1dp</dimen>
+    <dimen name="recyclerview_padding_bottom">16dp</dimen>
+    <dimen name="recyclerview_min_padding">2dp</dimen>
+    <dimen name="recyclerview_padding_top">8dp</dimen>
+    <dimen name="card_boders">2dp</dimen>
+    <dimen name="recycler_view_padding_top_include_actionbar">70dp</dimen>
+
+    <dimen name="appbar_text_selected">10sp</dimen>
+    <dimen name="appbar_text_normal">8sp</dimen>
+
+</resources>

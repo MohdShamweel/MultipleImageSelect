@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MultipleImageSelect</string>
+
+    <string name="album_view">Select photo album</string>
+    <string name="image_view">Tap to select images</string>
+
+    <string name="add">SEND</string>
+    <string name="permission_required">Read Storage access is required\nto display the Images.</string>
+    <string name="permission_denied">Permission Denied, please allow the storage to display the Images</string>
+    <string name="ok">OK</string>
+    <string name="permission_granted">Permission is granted. You can view Images.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="dialog_preview_title">Preview</string>
+    <string name="content_preview_image">Preview Image</string>
+    <string name="content_preview_icon">Preview Icon</string>
+    <string name="content_thumbnail">Thumbnail</string>
+    <string name="content_selected">Selected</string>
+    <string name="simple_transition">simple_transition</string>
+
+</resources>

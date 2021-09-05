@@ -1,0 +1,3 @@
+rootProject.name = "MultipleImageSelect"
+include ':app'
+include ':MultipleImageSelect'
