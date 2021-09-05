@@ -8,7 +8,7 @@ android {
     buildToolsVersion "31.0.0"
 
     defaultConfig {
-        applicationId "com.shamweel.multipleimageselect"
+        applicationId "com.shamweel.example.sample"
         minSdkVersion 21
         targetSdkVersion 31
         versionCode 1

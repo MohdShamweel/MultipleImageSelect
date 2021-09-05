@@ -1,4 +1,4 @@
-package com.shamweel.multipleimageselect
+package com.shamweel.example.sample
 
 import org.junit.Test
 

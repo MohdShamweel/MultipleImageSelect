@@ -1,10 +1,11 @@
-package com.shamweel.multipleimageselect
+package com.shamweel.example.sample
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import android.widget.TextView
+import androidx.appcompat.app.AppCompatActivity
+import com.shamweel.multipleimageselect.MultipleImageSelectActivity
 import com.shamweel.multipleimageselect.helpers.Constants
 import com.shamweel.multipleimageselect.model.ImageData
 
