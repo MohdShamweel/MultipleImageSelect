@@ -26,7 +26,7 @@ class Constants {
          * Currently, Uri field is String, if chosen 1. Uri -> Uri String else 2. Uri -> Path String
          *
          * use @INTENT_GET_URI
-         * intent.putExtra(Constants.INTENT_GET_URI, true) -> URI
+         * intent.putExtra(Constants.INTENT_GET_URI, true) -> URI String
          * intent.putExtra(Constants.INTENT_GET_URI, false) -> SCOPED PATH
          *
          */
