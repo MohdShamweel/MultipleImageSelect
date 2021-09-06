@@ -1,10 +1,10 @@
 # MultipleImageSelect
 Android Multiple Image Selector Library with features to either get URI's of the selected Images present at the External Storage or get their paths after copying the selected images to their specific Scoped Storage directory.
 
-![vid_lib](https://user-images.githubusercontent.com/34341190/132176148-e5552ce2-0232-4f8f-b162-82934d0b0a85.gif)
-![Lib_1](https://user-images.githubusercontent.com/34341190/132170626-0ae28065-185c-4b8a-9b4f-d763774fdd91.jpg)
-![Lib_2](https://user-images.githubusercontent.com/34341190/132170691-7841face-7d15-4341-8ff6-762ab2bc7808.jpg)
-![Lib_3](https://user-images.githubusercontent.com/34341190/132170746-88c06c0b-9e9d-470a-8abd-041b7deeec4b.jpg)
+![Lib_1](https://user-images.githubusercontent.com/34341190/132199364-365b5649-a14c-4000-825d-4e3136a4c283.jpg)
+![Lib_2](https://user-images.githubusercontent.com/34341190/132199375-e74743d9-78f8-48b0-90d6-75c9e3502516.jpg)
+![Lib_3](https://user-images.githubusercontent.com/34341190/132199379-f0b07321-c060-46f5-b0ba-dd9612f4972c.jpg)
+![vid_lib_small](https://user-images.githubusercontent.com/34341190/132199388-29962798-722d-40c2-8ca8-9c35cc6a6cbe.gif)
 
 ## Installation
 
