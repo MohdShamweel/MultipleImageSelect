@@ -43,5 +43,6 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
 
-    implementation project(':MultipleImageSelect')
+    //implementation project(':MultipleImageSelect')
+    implementation 'com.github.MohdShamweel:MultipleImageSelect:0.5'
 }
