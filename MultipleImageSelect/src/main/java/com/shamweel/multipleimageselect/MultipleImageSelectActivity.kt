@@ -44,6 +44,12 @@ class MultipleImageSelectActivity : AppCompatActivity(), AlbumsFragment.Fragment
         btnPermission = findViewById(R.id.btn_permission)
         txtPermission = findViewById(R.id.txtPermission)
 
+        toolbar.setBackgroundColor(
+            ContextCompat.getColor(
+                applicationContext,
+                R.color.white
+            )
+        )
         setSupportActionBar(toolbar)
         actionBar = supportActionBar!!
         actionBar.setDisplayHomeAsUpEnabled(true)
@@ -109,7 +115,7 @@ class MultipleImageSelectActivity : AppCompatActivity(), AlbumsFragment.Fragment
             toolbar.setBackgroundColor(
                 ContextCompat.getColor(
                     applicationContext,
-                    R.color.toolbarBackgroundColor
+                    R.color.white
                 )
             )
         }
